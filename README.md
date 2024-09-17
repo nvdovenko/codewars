@@ -1,8 +1,6 @@
 ## CODEWARS
 
-Some tasks from my codewars account to discover my skills in JavaScript.
+There are some tasks from my [Codewars](https://www.codewars.com/)  account to discover my skills in JavaScript. I hope there will be some Python tasks here soon.
 
-I hope there will be some Python tasks here soon.
-
----
-[Codewars](https://www.codewars.com/) is a platform that helps you learn, train, and improve your coding skills by solving programming tasks of many types and difficulty levels.
+----
+Codewars is a platform that helps you learn, train, and improve your coding skills by solving programming tasks of many types and difficulty levels.
