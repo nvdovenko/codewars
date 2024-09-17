@@ -1,11 +1,11 @@
-// The function which formats a duration, given as a number of seconds, in a human-friendly way. 
+// The function format a duration, given as a number of seconds, into a human-friendly way. 
 // It must accept a non-negative integer. If it is zero, it just returns "now". 
 // Otherwise, the duration is expressed as a combination of years, days, hours, minutes and seconds.
 //
-// It is much easier to understand with an example:
+// Example:
 // * For seconds = 62, this function should return 
 //    "1 minute and 2 seconds"
-//* For seconds = 3662, this function should return
+// * For seconds = 3662, this function should return
 //    "1 hour, 1 minute and 2 seconds"
 
 function formatDuration (seconds) {
